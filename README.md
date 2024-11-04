@@ -4,7 +4,7 @@ Test Changes.
 
 Is it done ? @ Brihat
 
-Hey, changes via termonal commands
+Hey, changes via terminal commands
 
 
-today we will have party!!!yay baby
+today we will
